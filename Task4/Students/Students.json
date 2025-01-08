@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "Tom",
+    "Groop": "GP-120",
+    "DateOfBirth": "2000-02-20T00:00:00",
+    "AverageScore": 4
+  },
+  {
+    "Name": "Jeck",
+    "Groop": "GP-121",
+    "DateOfBirth": "2000-05-11T00:00:00",
+    "AverageScore": 3
+  },
+  {
+    "Name": "Bob",
+    "Groop": "GP-122",
+    "DateOfBirth": "2001-07-22T00:00:00",
+    "AverageScore": 4
+  },
+  {
+    "Name": "Andrew",
+    "Groop": "GP-120",
+    "DateOfBirth": "2000-06-19T00:00:00",
+    "AverageScore": 5
+  },
+  {
+    "Name": "Jeckson",
+    "Groop": "GP-121",
+    "DateOfBirth": "2001-11-27T00:00:00",
+    "AverageScore": 4
+  },
+  {
+    "Name": "Babi",
+    "Groop": "GP-122",
+    "DateOfBirth": "2000-02-02T00:00:00",
+    "AverageScore": 4
+  },
+  {
+    "Name": "Alivia",
+    "Groop": "GP-120",
+    "DateOfBirth": "2001-09-25T00:00:00",
+    "AverageScore": 3
+  },
+  {
+    "Name": "Sophia",
+    "Groop": "GP-121",
+    "DateOfBirth": "2000-04-05T00:00:00",
+    "AverageScore": 3
+  },
+  {
+    "Name": "Angela",
+    "Groop": "GP-122",
+    "DateOfBirth": "2000-06-21T00:00:00",
+    "AverageScore": 4
+  },
+  {
+    "Name": "Jasmine",
+    "Groop": "GP-120",
+    "DateOfBirth": "2001-01-01T00:00:00",
+    "AverageScore": 5
+  },
+  {
+    "Name": "Rex",
+    "Groop": "GP-121",
+    "DateOfBirth": "2001-05-04T00:00:00",
+    "AverageScore": 4
+  },
+  {
+    "Name": "Thomas",
+    "Groop": "GP-122",
+    "DateOfBirth": "2000-12-12T00:00:00",
+    "AverageScore": 3
+  }
+]
